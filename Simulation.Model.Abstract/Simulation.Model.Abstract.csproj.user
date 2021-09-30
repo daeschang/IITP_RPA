@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\11. 2021\프로젝트\피노키오\피노키오\대순이형\[New] Pinokio_v2%28Transit%29_\Pinokio\bin\Pinokio.exe</StartProgram>
+  </PropertyGroup>
+</Project>

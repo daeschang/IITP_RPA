@@ -1,0 +1,23 @@
+Start Line : rl_M14A_B1_2
+End Line : rl_M14A_B2_4
+Name : rl_M14A_B1_2	Distance : 11498.6666666667	
+Name : rl_M14A_B1_3	Distance : 1568	
+Name : rl_M14A_B1_4	Distance : 14112	
+Name : rl_M14A_B1_25	Distance : 2217.48686580101	
+Name : rl_M14A_B1_26	Distance : 2613.33333333333	
+Name : rl_M14A_B1_27	Distance : 2217.48686580101	
+Name : rl_M14A_B1_20	Distance : 14112	
+Name : rl_M14A_B1_21	Distance : 1568	
+Name : rl_M14A_B1_22	Distance : 11498.6666666667	
+Name : rl_M14A_B1_34	Distance : 1568	
+Name : rl_M14A_InterBay_M14A_1_71	Distance : 1594.9899337892	
+Name : rl_M14A_InterBay_M14A_1_521	Distance : 1045.33333333333	
+Name : rl_M14A_InterBay_M14A_1_531	Distance : 862.399999999999	
+Name : rl_M14A_InterBay_M14A_1_541	Distance : 1411.2	
+Name : rl_M14A_InterBay_M14A_1_551	Distance : 862.399999999999	
+Name : rl_M14A_InterBay_M14A_1_561	Distance : 1045.33333333333	
+Name : rl_M14A_InterBay_M14A_1_81	Distance : 1594.9899337892	
+Name : rl_M14A_B2_31	Distance : 1568	
+Name : rl_M14A_B2_2	Distance : 11498.6666666667	
+Name : rl_M14A_B2_3	Distance : 1568	
+Name : rl_M14A_B2_4	Distance : 14112	
