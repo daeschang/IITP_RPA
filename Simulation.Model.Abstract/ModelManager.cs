@@ -2587,8 +2587,8 @@ namespace Simulation.Model.Abstract
             {
                 if (ModelManager.Instance.RailCuts[line.FabName].Contains(line))
                     line.TotalCost = float.MaxValue;
-                else
-                    ScriptScoreFunction(line);
+                //else
+                //    ScriptScoreFunction(line);
             //    //고정 값의 weight
             //    float distanceWeight = 1;
 
